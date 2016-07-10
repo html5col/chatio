@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="0461bdc5-ac40-4d46-91d1-027560d4d4ad" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/chatio.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/chatio_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="chatio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -239,12 +249,12 @@
       <workItem from="1467975223707" duration="1141000" />
       <workItem from="1468020993010" duration="4143000" />
       <workItem from="1468033087072" duration="4725000" />
-      <workItem from="1468115258496" duration="755000" />
+      <workItem from="1468115258496" duration="833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12952000" />
+    <option name="totallyTimeSpent" value="13030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="107" y="104" width="583" height="662" extended-state="0" />
